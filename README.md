@@ -1,2 +1,4 @@
 # senai-versoes-colaboracoes
-Adicionando comentário
+Adicionando comentários
+
+Lembrei do comando: git status
